@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there! 👋
 
-<!--
-**AlwinLinder/AlwinLinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer focused on creating mobile applications for iOS using C++. I'm constantly learning and improving my skills, with the goal of securing a job in this field.
 
-Here are some ideas to get you started:
+🔥 What I'm working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Developing iOS applications in C++
+-  Currently building a chatbot application for mobile devices
+-  Expanding my knowledge of mobile development and software engineering
+-  Building projects that enhance my skills and showcase my abilities
+
+🚀 My Goals:
+
+-  Master iOS development with C++
+-  Gain experience through real-world projects
+-  Land a job as a professional mobile app developer
+-  Feel free to check out my projects and connect with me!
